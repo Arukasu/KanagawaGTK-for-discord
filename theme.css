@@ -2902,8 +2902,8 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "FiraCodeM";
-    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/b268bb0bf8b94a1b3003b00d8f03f6d3c2e5e480/FiraCode-Medium.ttf");
+    font-family: "Cantarell";
+    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/c76f0a04831d8fe277d4b1bf806936e9fda21363/Cantarell-Regular.ttf");
 }
 @font-face {
     font-family: "FiracodeR";
@@ -2911,10 +2911,10 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 :root {
-    --font-primary: "FiracodeM";
-    --font-headline: "FiracodeM";
+    --font-primary: "Cantarell";
+    --font-headline: "Cantarell";
     --font-code: "FiracodeR";
-    --font-display: "FiracodeM";
+    --font-display: "Cantarell";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
