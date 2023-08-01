@@ -2906,14 +2906,14 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
     src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/c76f0a04831d8fe277d4b1bf806936e9fda21363/Cantarell-Regular.ttf");
 }
 @font-face {
-    font-family: "FiracodeR";
-    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/b268bb0bf8b94a1b3003b00d8f03f6d3c2e5e480/FiraCode-Retina.ttf");
+    font-family: "Terminess";
+    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/756dbae8167de2fff5a56a3506289864465fcff8/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
 }
 
 :root {
     --font-primary: "Cantarell";
     --font-headline: "Cantarell";
-    --font-code: "FiracodeR";
+    --font-code: "Terminess";
     --font-display: "Cantarell";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
