@@ -2902,19 +2902,19 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "TerminessTTF";
-    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete.ttf");
+    font-family: "FiraCodeM";
+    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/b268bb0bf8b94a1b3003b00d8f03f6d3c2e5e480/FiraCode-Medium.ttf");
 }
 @font-face {
-    font-family: "TerminessTTF Mono";
-    src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
+    font-family: "FiracodeR";
+    src: url("https://github.com/Arukasu/KanagawaGTK-for-discord/blob/b268bb0bf8b94a1b3003b00d8f03f6d3c2e5e480/FiraCode-Retina.ttf");
 }
 
 :root {
-    --font-primary: "TerminessTTF";
-    --font-headline: "TerminessTFF";
-    --font-code: "TerminessTTF Mono";
-    --font-display: "TerminessTTF";
+    --font-primary: "FiracodeM";
+    --font-headline: "FiracodeM";
+    --font-code: "FiracodeR";
+    --font-display: "FiracodeM";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
